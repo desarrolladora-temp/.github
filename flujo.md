@@ -3,12 +3,12 @@ El flujo de trabajo en el que trabajaremos desde que se asigna una tarea hasta l
 
 ## Índice
 - [Tablero](#tablero)
-- [Asignación de tareas](#asignar-tareas)
+- [Asignación de tareas](#asignación-de-tareas)
 - [Ramas](#ramas)
 - [Commits](#commits)
 - [Subir cambios](#subir-cambios)
 
-<h2 id='tablero'>Tablero</h2>
+## Tablero
 Antes de iniciar con el flujo de trabajo hay que conocer el tablero que enlista las tareas a realizar. En la tabla siguiente se enlistan los diferentes estados que tiene el tablero de trabajo.
 
 | Estado               | Descripción |
@@ -21,11 +21,11 @@ Antes de iniciar con el flujo de trabajo hay que conocer el tablero que enlista 
 
 <img width="1344" alt="image" src="https://github.com/desarrolladora-temp/.github/assets/5274471/5aade18d-61df-48de-98c7-6748b1e7da9e">
 
-<h2 id='asignar-tareas'>Asignación de tareas</h2>
+## Asignación de tareas
 En cada Sprint se enlistaran las tareas que se tienen que realizar en dicho Sprint y cada persona tendrá una cantidad de tareas asignadas. Al momento de tener las tareas, todas tendrán el estado **To Do** 
 y al momento de empezar a realizar una tarea se debe cambiar manualmente el estado a **In Progress** para tener un control de las tareas que se están trabajando en el momento de visualizar el tablero.
 
-<h2 id='ramas'>Ramas</h2>
+## Ramas
 Las diferentes ramas que cuenta el repositorio son las siguientes:
 
 | Nombre      | Descripción |
@@ -49,7 +49,7 @@ Unos ejemplos de nombrar una rama dependiendo el nombre de una tarea serían:
 
 **IMPORTANTE**: Los nombres de las ramas deben estar escritas en inglés.
 
-<h2 id='commits'>Commits</h2>
+## Commits
 Ya creada tu rama en la que vas a trabajar, también es importante nombrar convencionalmennte tus commits, algunas consideraciones a la hora de nombrarlos son:
 
 - Los commits deben estar escritos en **inglés**
@@ -77,7 +77,7 @@ Ejemplos:
 - `git commit -m "test: add test for login validation"`
 - `git commit -m "chore: update react dependencies"`
 
-<h2 id='subir-cambios'>Subir cambios</h2>
+## Subir cambios
 Teniendo la tarea ya hecha, es hora de subir la rama al repositorio de GitHub para poder hacer una Pull Request a la rama **developmment** y esperar a la revisión de código. Con esto tu ticket pasará del estado **In Progress** a **Code Review**.
 Los escenarios son los siguientes: Te aceptan los cambios o te piden cambios a tu código.
 
