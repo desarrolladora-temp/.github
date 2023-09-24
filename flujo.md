@@ -1,10 +1,11 @@
 # Flujo de trabajo
 El flujo de trabajo en el que trabajaremos desde que se asigna una tarea hasta la realización de esta.
 
+## Índice
 - [Tablero](#tablero)
 - [Asignación de tareas](#asignar-tareas)
 - [Ramas](#ramas)
-- [Commits](#commmits)
+- [Commits](#commits)
 - [Subir cambios](#subir-cambios)
 
 <h2 id='tablero'>Tablero</h2>
