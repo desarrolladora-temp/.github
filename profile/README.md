@@ -8,6 +8,9 @@ Mitote es una aplicación móvil enfocada a la reserva de salones de eventos. Si
   - [Backlog Creation](#backlog-creation)
   - [Sprint Planning](#sprint-planning)
   - [Daily Scrum](#daily-scrum)
+  - [Backlog Grooming](#backlog-grooming)
+  - [Sprint Review](#sprint-review)
+  - [Stakeholder Demo](#demo)
 
 <h2 id='methodology'>Metodología de trabajo</h2>
 La metodología para trabajar será la metodología ágil/agile utilizando el framework SCRUM.
