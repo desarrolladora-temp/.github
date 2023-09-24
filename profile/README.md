@@ -4,5 +4,5 @@ Mitote es una aplicación móvil enfocada a la reserva de salones de eventos. Si
 ## [Metodología de trabajo](metodologia.md)
 La metodología para trabajar será la metodología ágil/agile utilizando el framework SCRUM.
 
-## [Flujo de trabajo en GitHub](flujo.md)
+## [Flujo de trabajo](flujo.md)
 El flujo de trabajo en el que trabajaremos desde que se asigna una tarea hasta la realización de esta.
