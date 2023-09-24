@@ -1,4 +1,4 @@
-<h1 id='methodology'>Metodología de trabajo</h1>
+# Metodología de trabajo
 La metodología para trabajar será la metodología ágil/agile utilizando el framework SCRUM.
 
 ## Índice
