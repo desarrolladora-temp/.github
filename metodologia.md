@@ -9,7 +9,7 @@ La metodología para trabajar será la metodología ágil/agile utilizando el fr
 - [Daily Scrum](#daily-scrum)
 - [Backlog Grooming](#backlog-grooming)
 - [Sprint Review](#sprint-review)
-- [Stakeholder Demo](#demo)
+- [Stakeholder Demo](#stakeholder-demo)
 
 <h2 id='agile'>¿Qué es Agile?</h2>
 Agile es un enfoque de desarrollo de software y gestión de proyectos que se basa en valores y principios específicos destinados a fomentar la flexibilidad, la colaboración, la adaptabilidad y la entrega continua de valor a los clientes.
