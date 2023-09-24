@@ -1,7 +1,17 @@
-<h1 id='methodology'>Metodología de trabajo</h1>
+# Metodología de trabajo
 La metodología para trabajar será la metodología ágil/agile utilizando el framework SCRUM.
 
-<h2 id='agile'>¿Qué es Agile?</h2>
+## Índice
+- [¿Qué es Agile?](#qué-es-agile)
+- [SCRUM Framework](#scrum-framework)
+- [Backlog Creation](#backlog-creation)
+- [Sprint Planning](#sprint-planning)
+- [Daily Scrum](#daily-scrum)
+- [Backlog Grooming](#backlog-grooming)
+- [Sprint Review](#sprint-review)
+- [Stakeholder Demo](#stakeholder-demo)
+
+## ¿Qué es Agile?
 Agile es un enfoque de desarrollo de software y gestión de proyectos que se basa en valores y principios específicos destinados a fomentar la flexibilidad, la colaboración, la adaptabilidad y la entrega continua de valor a los clientes.
 En pocas palabras, es una forma de trabajar que puede generar flexibilidad y mayor eficiencia al momento de desarrollar software.
 
@@ -11,7 +21,7 @@ La metodología agile se compone del siguiente manifesto:
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-<h2 id='scrum'>SCRUM Framework</h2>
+## SCRUM Framework
 El framework SCRUM es una receta para lograr desarrollo ágil preescribiendo una estricta serie de:
 
 - Roles
@@ -35,7 +45,7 @@ El framework SCRUM es una receta para lograr desarrollo ágil preescribiendo una
 |Stakeholder demo   | Meeting para mostrar los avances que se tienen al cliente              |
 |Team retrospective | Discusión para saber qué fue bien, mal y mejoras a la hora de trabajar |
 
-<h3 id='backlog-creation'>Backlog Creation</h3>
+### Backlog Creation
 Para la creación del backlog se necesita la ayuda de **user stories**, los cuales se crean mediante la siguiente estructura:
 
 > As a ____, I want to ____, so that ____ 
@@ -56,7 +66,7 @@ También deben tener las siguientes categorías en los cuerpos de cada *user sto
 - Acceptance Criteria - Representa el requerimiento mínimo para que el *user story* sea considerado hecho
 - Estimation of Effort - Determinar cuánto trabajo llevará a cabo realizar dicho *user story*
 
-<h3 id='sprint-planning'>Sprint Planning</h3>
+### Sprint Planning
 En SCRUM, el trabajo se divide en incrementos llamados **sprints**. Los sprints tipicamente duran ciertas semanas.
 
 - Al inicio de cada sprint, todo el equipo se junta para decidir qué tareas trabajar en dicho sprint
@@ -64,27 +74,27 @@ En SCRUM, el trabajo se divide en incrementos llamados **sprints**. Los sprints 
 - Los desarrolladores rompen cada user story en tareas más pequeñas
 - Cada tarea es asignada a un desarrollador
 
-<h3 id='daily-scrum'>Daily Scrum</h3>
+### Daily Scrum
 Cada día, el SCRUM Master y los desarrolladores se reúnen para discutir el estado de sus tareas. Cada desarrollador tiene tres preguntas:
 
 - ¿Qué trabajaste la última vez?
 - ¿Qué trabajarás ahora?
 - ¿Hay algo que esté bloqueando tu progreso?
 
-<h3 id='backlog-grooming'>Backlog Grooming</h3>
+### Backlog Grooming
 Cada Sprint, el Product Owner mantiene el Backlog, agregando nuevas User Stories, modificando antiguas, etc.
 
 - A la mitad de cada Sprint, todo el equipo se junta para discutir estas agregaciones
 - El equipo discute las nuevas User Stories, y el Product Owner las ordena apropiadamente en el Backlog
 - No se agregará nunca nuevas User Stories al Sprint en curso, pero se pueden indexar en los siguientes Sprints
 
-<h3 id='sprint-review'>Sprint Review</h3>
+### Sprint Review
 Al finalizar cada Sprint, el equipo se reúne para discutir acerca del trabajo realizado en todo el Sprint.
 
 - Las User Stories no finalizadas se regresan al Backlog
 - El equipo acuerda qué funcionalidades son buenas para mostrar al cliente
 
-<h3 id='demo'>Stakeholder Demo</h3>
+### Stakeholder Demo
 Todo el equipo se reúne con el cliente para hacer una demostración del trabajo realizado en el Sprint
 
 - El Product Owner por lo general lidera la demo
