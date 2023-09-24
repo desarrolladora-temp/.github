@@ -1,6 +1,16 @@
 <h1 id='methodology'>Metodología de trabajo</h1>
 La metodología para trabajar será la metodología ágil/agile utilizando el framework SCRUM.
 
+## Índice
+- [¿Qué es Agile?](#agile)
+- [SCRUM Framework](#scrum)
+- [Backlog Creation](#backlog-creation)
+- [Sprint Planning](#sprint-planning)
+- [Daily Scrum](#daily-scrum)
+- [Backlog Grooming](#backlog-grooming)
+- [Sprint Review](#sprint-review)
+- [Stakeholder Demo](#demo)
+
 <h2 id='agile'>¿Qué es Agile?</h2>
 Agile es un enfoque de desarrollo de software y gestión de proyectos que se basa en valores y principios específicos destinados a fomentar la flexibilidad, la colaboración, la adaptabilidad y la entrega continua de valor a los clientes.
 En pocas palabras, es una forma de trabajar que puede generar flexibilidad y mayor eficiencia al momento de desarrollar software.
