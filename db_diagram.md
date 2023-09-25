@@ -44,3 +44,4 @@
 - La tabla `SalonesDeEventos` tiene una relación uno a muchos con la tabla `AgendaAnfitrión` a través del campo `id` de salón.
 - La tabla `Usuarios` tiene una relación uno a muchos con la tabla `SalonesDeEventos` a través del campo `id` de anfitrión en caso de que el usuario sea un anfitrión.
 
+<img width="918" alt="image" src="https://github.com/desarrolladora-temp/.github/assets/5274471/03e193b5-6961-42da-be55-d2fed01fe2ba">
