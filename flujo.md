@@ -35,7 +35,7 @@ Las diferentes ramas que cuenta el repositorio son las siguientes:
 
 Cuando se va a trabajar en una nueva tarea, se tiene que crear una nueva rama partiendo de la rama **development** la cual es exclusivamente para trabajar dicha tarea y debe tener ciertas convención al momento de nombrarlo.
 
-El tipo de convención para nombrar las ramas es la siguiente: `<type>/<reference>/<name>`.
+El tipo de convención para nombrar las ramas es la siguiente: `<type>/<reference>`.
 
 - `feature`: Ramas para nuevas funcionalidades.
 - `bugfix`: Ramas para resolver bugs.
@@ -43,9 +43,9 @@ El tipo de convención para nombrar las ramas es la siguiente: `<type>/<referenc
 
 Unos ejemplos de nombrar una rama dependiendo el nombre de una tarea serían:
 
-- `feature/issue-3/create-login`
-- `bugfix/issue-12/login-validations-not-working`
-- `hotfix/no-ref/home-view-not-working`
+- `feature/issue-3`
+- `bugfix/issue-12`
+- `hotfix/issue-10`
 
 **IMPORTANTE**: Los nombres de las ramas deben estar escritas en inglés.
 
